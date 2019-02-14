@@ -7,5 +7,3 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr.Cho
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr.Chocolate", 22, "Male", "Blue","Happy", True);
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr.Chocolate", 22, "Male", "Blue","Happy", True);
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr.Chocolate", 22, "Male", "Blue","Happy", True);
-
-
